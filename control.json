@@ -1,0 +1,7 @@
+{
+  "global_enabled": true,
+  "users": {
+    "user_1": { "approved": true },
+    "user_2": { "approved": false }
+  }
+}
