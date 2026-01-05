@@ -2,7 +2,7 @@
   "global_enabled": true,
   "users": {
     "user_1": {
-      "approved": true,
+      "approved": false,
       "name": "khaled"
     },
     "user_2": {
