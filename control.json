@@ -1,12 +1,12 @@
 {
   "global_enabled": true,
   "users": {
-    "user_1": {
-      "approved": false,
-      "name": "khaled"
-    },
     "user_2": {
       "approved": false
+    },
+    "Khaled": {
+      "approved": false,
+      "name": "khaled"
     }
   }
 }
