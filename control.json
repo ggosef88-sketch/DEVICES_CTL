@@ -1,1 +1,10 @@
-
+{
+  "users": {
+    "medo": {
+      "approved": false,
+      "plan": "",
+      "expire-on": "",
+      "last_seen": 0
+    }
+  }
+}
