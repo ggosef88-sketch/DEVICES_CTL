@@ -11,6 +11,12 @@
       "plan": "𝘄𝗲𝗲𝗸𝗹𝘆 💎",
       "expire-on": "12-01-2026",
       "last_seen": 0
+    },
+    "abdo": {
+      "approved": false,
+      "plan": "",
+      "expire-on": "",
+      "last_seen": 0
     }
   }
 }
